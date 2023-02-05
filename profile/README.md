@@ -10,4 +10,4 @@ Currently there is documentation in a few different places (maybe one day it mig
 2. The [docs](https://github.com/Banner-Saga-Factions/BSF-Custom-Server/tree/main/docs) of the Custom Server repo has a lot of notes on both client and server side data structures and the communication flow between them
 3. The [BSF Research](https://github.com/eltaino1/BSF-Research) and [BSF Features](https://github.com/eltaino1/BSF-Features) repos by [@eltaino1](https://github.com/eltaino1) has WIP notes on building the client from source
 4. The [code/win32/scripts](https://github.com/eltaino1/BSF-Research/tree/main/code/win32/scripts) directory in the BSF Research repo has the client source code (decompiled using [JPEXS](https://github.com/jindrapetrik/jpexs-decompiler))
-5. (This)[https://www.youtube.com/clip/UgkxvJJxdfj6VhHdRD9QtrQANQ7LWmIqcuWF] talk also provides some insight into the development process of factions and the server architecture
+5. [This](https://www.youtube.com/clip/UgkxvJJxdfj6VhHdRD9QtrQANQ7LWmIqcuWF) talk also provides some insight into the development process of factions and the server architecture
