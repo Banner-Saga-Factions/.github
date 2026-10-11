@@ -1,4 +1,7 @@
-<!-- Filled-in example: https://github.com/Banner-Saga-Factions/BSF-Custom-Server/pull/361 -->
+<!--
+A finished example, from the server: https://github.com/Banner-Saga-Factions/BSF-Custom-Server/pull/361
+The server has its own template, so its checks section is headed "Test plan".
+-->
 
 ## Summary
 
@@ -19,9 +22,9 @@ With no issue, list them here: one statement per line that somebody could check.
 ## Review record
 
 <!--
-If a review ran before this pull request opened, replace this comment with its findings:
-what the checker found, what the refuter tried to disprove, what was fixed, what was left open.
-Leave the comment as it is if none ran.
+If a review ran before this pull request opened, replace this comment with its record,
+in the format the project's review process gives. The example above shows the five lines
+the BSF projects use. Leave the comment as it is if none ran.
 -->
 
 ## Dependencies
